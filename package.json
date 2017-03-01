@@ -1,0 +1,23 @@
+{
+  "name": "roadmap",
+  "version": "1.0.0",
+  "description": "This repository is hosting a fictional roadmap. The idea is that a programmer manages the **changelog.md** and the **roadmap.md**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uschmann/roadmap.git"
+  },
+  "author": "Andre Uschmann <mail@andre-uschmann.de> (http://andre-uschmann.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uschmann/roadmap/issues"
+  },
+  "homepage": "https://github.com/uschmann/roadmap#readme",
+  "dependencies": {
+    "elixir": "^0.1.2",
+    "laravel": "0.0.1"
+  }
+}
