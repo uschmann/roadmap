@@ -1,4 +1,4 @@
-# Version 1.0.1
+# Version 1.1.0
 ## Release: March 2017
 ## Use github for changelogs
 We should use github to quickly communicate our changelog to the public.
@@ -18,7 +18,7 @@ Github is too hard to use.
 So why not use github pages to create a beautifull website that we can style
 in our own CI? You want it? You get it :sunglasses:
 
-# Version 1.0.2
+# Version 1.1.0
 ## Release: March 2017
 ## Use github for changelogs
 We should use github to quickly communicate our changelog to the public.
