@@ -1,3 +1,6 @@
+# Version 1.0.4
+- Added link to [github-page](https://uschmann.github.io/roadmap/) in [readme.md](/README.md)
+
 # Version 1.0.3
 - Added static [github-page](https://uschmann.github.io/roadmap/)
 

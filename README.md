@@ -10,3 +10,6 @@ you can take a look at the [roadmap](/roadmap.md)
 
 # [Changelog](/changelog.md)
 Take a look to find out about the newest features and bug fixes by viewing the [changelog](/changelog.md)
+
+# UX
+You can find a more userfreindly version of this docs [here](https://uschmann.github.io/roadmap/)
