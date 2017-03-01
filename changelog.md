@@ -1,3 +1,6 @@
+# Version 1.0.3
+- Added static [github-page](https://uschmann.github.io/roadmap/)
+
 # Version 1.0.2
 - Turn headlines of readme into hyper links.
 
